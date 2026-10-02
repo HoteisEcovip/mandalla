@@ -128,6 +128,10 @@
           <h1 class="hero__nome">${esc(p.nome).replace(/^(Pousada)\s+/i, '<span class="hero__pre">$1</span>')}</h1>
           ${p.regiao ? `<p class="hero__regiao">${esc(p.regiao)}</p>` : ''}
           ${h.frase ? `<p class="hero__frase">${esc(h.frase)}</p>` : ''}
+          <a class="hero__rolar" href="#conheca">
+            <span>Role para baixo</span>
+            <span class="hero__rolar-seta">${ico('seta-dir')}</span>
+          </a>
         </div>
         ${e && e.logo ? linkExterno(e.url, `<img src="${esc(e.logo)}" alt="Pousada da rede ${esc(e.nome || 'EcoVip')}" width="110" height="30">`, 'hero__ecovip') : ''}`;
     },
@@ -468,7 +472,8 @@
     const f = lbFotos[lbI];
     lbImg.src = f.src;
     lbImg.alt = f.alt || '';
-    lbLeg.textContent = `${f.legenda || f.alt || ''}${lbFotos.length > 1 ? `  ·  ${lbI + 1}/${lbFotos.length}` : ''}${f.credito ? `\nFoto: ${f.credito}` : ''}`;
+    // sem nome de foto: só a contagem (e o crédito do fotógrafo, quando a licença exige)
+    lbLeg.textContent = [lbFotos.length > 1 ? `${lbI + 1}/${lbFotos.length}` : '', f.credito ? `Foto: ${f.credito}` : ''].filter(Boolean).join('\n');
     lb.classList.toggle('lightbox--unica', lbFotos.length < 2);
     // pré-carrega a próxima
     if (lbFotos.length > 1) new Image().src = lbFotos[(lbI + 1) % lbFotos.length].src;
