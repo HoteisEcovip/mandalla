@@ -92,10 +92,6 @@
             "texto": "Ar-condicionado"
           },
           {
-            "icone": "tv",
-            "texto": "Smart TV"
-          },
-          {
             "icone": "frigobar",
             "texto": "Frigobar"
           },
@@ -158,10 +154,6 @@
           {
             "icone": "ar",
             "texto": "Ar-condicionado"
-          },
-          {
-            "icone": "tv",
-            "texto": "Smart TV"
           },
           {
             "icone": "frigobar",
@@ -232,10 +224,6 @@
             "texto": "Ar-condicionado"
           },
           {
-            "icone": "tv",
-            "texto": "Smart TV"
-          },
-          {
             "icone": "frigobar",
             "texto": "Frigobar"
           },
@@ -249,7 +237,6 @@
           }
         ],
         "informacoes": [
-          "Crianças até 5 anos não pagam (na cama dos pais).",
           "Check-in a partir das 16h e check-out até as 14h."
         ],
         "fotos": [
@@ -310,10 +297,6 @@
           {
             "icone": "ar",
             "texto": "Ar-condicionado"
-          },
-          {
-            "icone": "tv",
-            "texto": "Smart TV"
           },
           {
             "icone": "frigobar",
