@@ -79,10 +79,8 @@
         "camas": "1 cama de casal queen",
         "caracteristicas": [
           "No térreo",
-          "Varanda com rede",
           "Banheiro privativo",
-          "Vista para o jardim",
-          "Aprox. 18 m²"
+          "Vista para o jardim"
         ],
         "disponivel": [
           {
@@ -91,7 +89,7 @@
           },
           {
             "icone": "ar",
-            "texto": "Ventilador de teto"
+            "texto": "Ar-condicionado"
           },
           {
             "icone": "tv",
@@ -103,7 +101,7 @@
           },
           {
             "icone": "chuveiro",
-            "texto": "Chuveiro a gás"
+            "texto": "Chuveiro quente"
           },
           {
             "icone": "cafe",
@@ -111,7 +109,7 @@
           }
         ],
         "informacoes": [
-          "Check-in a partir das 14h e check-out até 12h.",
+          "Check-in a partir das 16h e check-out até as 14h.",
           "Não comporta cama extra."
         ],
         "fotos": [
@@ -149,10 +147,8 @@
         "camas": "1 cama de casal queen",
         "caracteristicas": [
           "No andar superior",
-          "Varanda com rede",
           "Banheiro privativo",
-          "Vista para o jardim",
-          "Aprox. 18 m²"
+          "Vista para o jardim"
         ],
         "disponivel": [
           {
@@ -161,7 +157,7 @@
           },
           {
             "icone": "ar",
-            "texto": "Ventilador de teto"
+            "texto": "Ar-condicionado"
           },
           {
             "icone": "tv",
@@ -173,7 +169,7 @@
           },
           {
             "icone": "chuveiro",
-            "texto": "Chuveiro a gás"
+            "texto": "Chuveiro quente"
           },
           {
             "icone": "cafe",
@@ -181,7 +177,7 @@
           }
         ],
         "informacoes": [
-          "Check-in a partir das 14h e check-out até 12h.",
+          "Check-in a partir das 16h e check-out até as 14h.",
           "Não comporta cama extra."
         ],
         "fotos": [
@@ -224,8 +220,7 @@
         "caracteristicas": [
           "No térreo",
           "Banheiro privativo",
-          "Varanda",
-          "Aprox. 24 m²"
+          "Varanda"
         ],
         "disponivel": [
           {
@@ -234,7 +229,7 @@
           },
           {
             "icone": "ar",
-            "texto": "Ventilador de teto"
+            "texto": "Ar-condicionado"
           },
           {
             "icone": "tv",
@@ -246,7 +241,7 @@
           },
           {
             "icone": "chuveiro",
-            "texto": "Chuveiro a gás"
+            "texto": "Chuveiro quente"
           },
           {
             "icone": "cafe",
@@ -255,7 +250,7 @@
         ],
         "informacoes": [
           "Crianças até 5 anos não pagam (na cama dos pais).",
-          "Check-in a partir das 14h e check-out até 12h."
+          "Check-in a partir das 16h e check-out até as 14h."
         ],
         "fotos": [
           {
@@ -305,8 +300,7 @@
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
-          "Área de estar",
-          "Aprox. 30 m²"
+          "Área de estar"
         ],
         "disponivel": [
           {
@@ -327,7 +321,7 @@
           },
           {
             "icone": "chuveiro",
-            "texto": "Chuveiro a gás"
+            "texto": "Chuveiro quente"
           },
           {
             "icone": "cafe",
@@ -336,7 +330,7 @@
         ],
         "informacoes": [
           "Beliche indicado para maiores de 6 anos.",
-          "Check-in a partir das 14h e check-out até 12h."
+          "Check-in a partir das 16h e check-out até as 14h."
         ],
         "fotos": [
           {
