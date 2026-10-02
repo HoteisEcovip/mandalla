@@ -283,7 +283,7 @@
         "nome": "Luxo Quádruplo Superior",
         "chamada": "Para quem quer viajar acompanhado e ficar todo mundo junto.",
         "capacidade": 4,
-        "camas": "Cama de casal + 1 beliche",
+        "camas": "Cama de casal + 2 camas de solteiro",
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
@@ -312,7 +312,6 @@
           }
         ],
         "informacoes": [
-          "Beliche indicado para maiores de 6 anos.",
           "Check-in a partir das 16h e check-out até as 14h."
         ],
         "fotos": [
