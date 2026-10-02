@@ -2,7 +2,8 @@
   "meta": {
     "titulo": "Pousada Mandalla — Serra do Cipó",
     "descricao": "Um refúgio para viver a Serra do Cipó no seu ritmo. Quartos para casais, famílias e pequenos grupos, a poucos minutos das principais cachoeiras.",
-    "corTema": "#2f3a2b"
+    "corTema": "#2f3a2b",
+    "url": "https://hoteisecovip.github.io/mandalla/"
   },
   "tema": {
     "primaria": "#a4562f",
