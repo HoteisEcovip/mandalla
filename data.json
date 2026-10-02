@@ -85,7 +85,7 @@
         "disponivel": [
           {
             "icone": "wifi",
-            "texto": "Wi-Fi"
+            "texto": "Wi-Fi de cortesia"
           },
           {
             "icone": "ar",
@@ -149,7 +149,7 @@
         "disponivel": [
           {
             "icone": "wifi",
-            "texto": "Wi-Fi"
+            "texto": "Wi-Fi de cortesia"
           },
           {
             "icone": "ar",
@@ -217,7 +217,7 @@
         "disponivel": [
           {
             "icone": "wifi",
-            "texto": "Wi-Fi"
+            "texto": "Wi-Fi de cortesia"
           },
           {
             "icone": "ar",
@@ -292,7 +292,7 @@
         "disponivel": [
           {
             "icone": "wifi",
-            "texto": "Wi-Fi"
+            "texto": "Wi-Fi de cortesia"
           },
           {
             "icone": "ar",
@@ -2332,8 +2332,8 @@
       },
       {
         "icone": "wifi",
-        "titulo": "Wi-Fi",
-        "texto": "Em todos os quartos e áreas comuns."
+        "titulo": "Wi-Fi de cortesia",
+        "texto": "A pousada possui Wi-Fi de cortesia para o hóspede."
       },
       {
         "icone": "carro",
