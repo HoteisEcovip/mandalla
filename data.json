@@ -76,7 +76,7 @@
         "nome": "Luxo Duplo Térreo",
         "chamada": "Para quem viaja a dois, com acesso sem escadas.",
         "capacidade": 2,
-        "camas": "1 cama de casal queen",
+        "camas": "Cama de casal",
         "caracteristicas": [
           "No térreo",
           "Banheiro privativo",
@@ -144,7 +144,7 @@
         "nome": "Luxo Duplo Superior",
         "chamada": "Para quem viaja a dois e gosta de uma vista do alto.",
         "capacidade": 2,
-        "camas": "1 cama de casal queen",
+        "camas": "Cama de casal",
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
@@ -216,7 +216,7 @@
         "nome": "Luxo Triplo Térreo",
         "chamada": "Mais espaço para pequenas famílias ou grupos.",
         "capacidade": 3,
-        "camas": "1 cama de casal + 1 cama de solteiro",
+        "camas": "Cama de casal + 1 cama de solteiro",
         "caracteristicas": [
           "No térreo",
           "Banheiro privativo",
@@ -296,7 +296,7 @@
         "nome": "Luxo Quádruplo Superior",
         "chamada": "Para quem quer viajar acompanhado e ficar todo mundo junto.",
         "capacidade": 4,
-        "camas": "1 cama de casal + 1 beliche",
+        "camas": "Cama de casal + 1 beliche",
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
