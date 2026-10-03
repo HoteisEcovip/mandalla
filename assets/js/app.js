@@ -735,7 +735,8 @@
 
     const d = infoDistancia(l);
     const pts = d.temRota ? l.rota : [D.pousada.coordenadas, l.coordenadas];
-    const cor = getComputedStyle(document.documentElement).getPropertyValue('--cor-primaria').trim() || '#a4562f';
+    const estilo = getComputedStyle(document.documentElement);
+    const cor = estilo.getPropertyValue('--cor-destaque').trim() || estilo.getPropertyValue('--cor-primaria').trim() || '#a4562f';
 
     const contorno = L.polyline([], { color: '#fff', weight: 9, opacity: 0.85, lineCap: 'round', lineJoin: 'round', interactive: false }).addTo(prox.camadaRota);
     const linha = L.polyline([], { color: cor, weight: 5, lineCap: 'round', lineJoin: 'round', dashArray: d.temRota ? null : '2 10', interactive: false }).addTo(prox.camadaRota);
@@ -814,6 +815,12 @@
     if (t.secundaria) raiz.setProperty('--cor-mata', t.secundaria);
     if (t.fundo) raiz.setProperty('--cor-fundo', t.fundo);
     if (t.texto) raiz.setProperty('--cor-texto', t.texto);
+    if (t.destaque) raiz.setProperty('--cor-destaque', t.destaque);
+    if (t.titulos) raiz.setProperty('--cor-titulo', t.titulos);
+    if (t.areia) raiz.setProperty('--cor-areia', t.areia);
+    // fontes (carregadas no index.html pelo ferramentas/preparar-compartilhamento.mjs)
+    if (t.fonteTitulo) raiz.setProperty('--fonte-titulo', `'${t.fonteTitulo}', Georgia, 'Times New Roman', serif`);
+    if (t.fonteTexto) raiz.setProperty('--fonte-texto', `'${t.fonteTexto}', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif`);
 
     const m = D.meta || {};
     const titulo = m.titulo || `${D.pousada.nome} — ${D.pousada.regiao || ''}`;
