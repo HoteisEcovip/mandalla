@@ -45,27 +45,33 @@
     "fotos": [
       {
         "src": "img/sobre/sobre-murhgxwgjyh.webp",
-        "alt": "Pousada Mandalla — foto 1"
+        "alt": "Pousada Mandalla — foto 1",
+        "mini": "img/sobre/sobre-murhgxwgjyh.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhh0vaa1t.webp",
-        "alt": "Pousada Mandalla — foto 2"
+        "alt": "Pousada Mandalla — foto 2",
+        "mini": "img/sobre/sobre-murhh0vaa1t.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhh4l9bry.webp",
-        "alt": "Pousada Mandalla — foto 3"
+        "alt": "Pousada Mandalla — foto 3",
+        "mini": "img/sobre/sobre-murhh4l9bry.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhxmhx3a5.webp",
-        "alt": "Pousada Mandalla — foto 4"
+        "alt": "Pousada Mandalla — foto 4",
+        "mini": "img/sobre/sobre-murhxmhx3a5.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhxpbtos6.webp",
-        "alt": "Pousada Mandalla — foto 5"
+        "alt": "Pousada Mandalla — foto 5",
+        "mini": "img/sobre/sobre-murhxpbtos6.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhy0o97e7.webp",
-        "alt": "Pousada Mandalla — foto 6"
+        "alt": "Pousada Mandalla — foto 6",
+        "mini": "img/sobre/sobre-murhy0o97e7.m.webp"
       }
     ]
   },
@@ -113,27 +119,33 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwa9ji7y.webp",
-            "alt": "Luxo Duplo Térreo — foto 1"
+            "alt": "Luxo Duplo Térreo — foto 1",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwa9ji7y.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwajvadh.webp",
-            "alt": "Luxo Duplo Térreo — foto 2"
+            "alt": "Luxo Duplo Térreo — foto 2",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwajvadh.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwapxfcx.webp",
-            "alt": "Luxo Duplo Térreo — foto 3"
+            "alt": "Luxo Duplo Térreo — foto 3",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwapxfcx.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwaxp6uc.webp",
-            "alt": "Luxo Duplo Térreo — foto 4"
+            "alt": "Luxo Duplo Térreo — foto 4",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwaxp6uc.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwb9gh4x.webp",
-            "alt": "Luxo Duplo Térreo — foto 5"
+            "alt": "Luxo Duplo Térreo — foto 5",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwb9gh4x.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-terreo-murjwblelk0.webp",
-            "alt": "Luxo Duplo Térreo — foto 6"
+            "alt": "Luxo Duplo Térreo — foto 6",
+            "mini": "img/quartos/luxo-duplo-terreo-murjwblelk0.m.webp"
           }
         ]
       },
@@ -177,31 +189,38 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-duplo-superior-murjn0h5u63.webp",
-            "alt": "Luxo Duplo Superior — foto 1"
+            "alt": "Luxo Duplo Superior — foto 1",
+            "mini": "img/quartos/luxo-duplo-superior-murjn0h5u63.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn0nscfq.webp",
-            "alt": "Luxo Duplo Superior — foto 2"
+            "alt": "Luxo Duplo Superior — foto 2",
+            "mini": "img/quartos/luxo-duplo-superior-murjn0nscfq.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn0txlxr.webp",
-            "alt": "Luxo Duplo Superior — foto 3"
+            "alt": "Luxo Duplo Superior — foto 3",
+            "mini": "img/quartos/luxo-duplo-superior-murjn0txlxr.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn10lazz.webp",
-            "alt": "Luxo Duplo Superior — foto 4"
+            "alt": "Luxo Duplo Superior — foto 4",
+            "mini": "img/quartos/luxo-duplo-superior-murjn10lazz.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn173ity.webp",
-            "alt": "Luxo Duplo Superior — foto 5"
+            "alt": "Luxo Duplo Superior — foto 5",
+            "mini": "img/quartos/luxo-duplo-superior-murjn173ity.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn1dhcwa.webp",
-            "alt": "Luxo Duplo Superior — foto 6"
+            "alt": "Luxo Duplo Superior — foto 6",
+            "mini": "img/quartos/luxo-duplo-superior-murjn1dhcwa.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-superior-murjn1nozto.webp",
-            "alt": "Luxo Duplo Superior — foto 7"
+            "alt": "Luxo Duplo Superior — foto 7",
+            "mini": "img/quartos/luxo-duplo-superior-murjn1nozto.m.webp"
           }
         ]
       },
@@ -244,39 +263,48 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy1qt7cu.webp",
-            "alt": "Luxo Triplo Térreo — foto 1"
+            "alt": "Luxo Triplo Térreo — foto 1",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy1qt7cu.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy1xgtd7.webp",
-            "alt": "Luxo Triplo Térreo — foto 2"
+            "alt": "Luxo Triplo Térreo — foto 2",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy1xgtd7.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy274oat.webp",
-            "alt": "Luxo Triplo Térreo — foto 3"
+            "alt": "Luxo Triplo Térreo — foto 3",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy274oat.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy2gx7qq.webp",
-            "alt": "Luxo Triplo Térreo — foto 4"
+            "alt": "Luxo Triplo Térreo — foto 4",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy2gx7qq.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy2rngle.webp",
-            "alt": "Luxo Triplo Térreo — foto 5"
+            "alt": "Luxo Triplo Térreo — foto 5",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy2rngle.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy337o8d.webp",
-            "alt": "Luxo Triplo Térreo — foto 6"
+            "alt": "Luxo Triplo Térreo — foto 6",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy337o8d.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy3d3w09.webp",
-            "alt": "Luxo Triplo Térreo — foto 7"
+            "alt": "Luxo Triplo Térreo — foto 7",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy3d3w09.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy3lr1k1.webp",
-            "alt": "Luxo Triplo Térreo — foto 8"
+            "alt": "Luxo Triplo Térreo — foto 8",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy3lr1k1.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-terreo-murjy3uzaf0.webp",
-            "alt": "Luxo Triplo Térreo — foto 9"
+            "alt": "Luxo Triplo Térreo — foto 9",
+            "mini": "img/quartos/luxo-triplo-terreo-murjy3uzaf0.m.webp"
           }
         ]
       },
@@ -319,35 +347,43 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjom0mm0q.webp",
-            "alt": "Luxo Quádruplo Superior — foto 1"
+            "alt": "Luxo Quádruplo Superior — foto 1",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjom0mm0q.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjol6n2lg.webp",
-            "alt": "Luxo Quádruplo Superior — foto 2"
+            "alt": "Luxo Quádruplo Superior — foto 2",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjol6n2lg.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjold1zss.webp",
-            "alt": "Luxo Quádruplo Superior — foto 3"
+            "alt": "Luxo Quádruplo Superior — foto 3",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjold1zss.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjoljgv9o.webp",
-            "alt": "Luxo Quádruplo Superior — foto 4"
+            "alt": "Luxo Quádruplo Superior — foto 4",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjoljgv9o.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjoltwkmc.webp",
-            "alt": "Luxo Quádruplo Superior — foto 5"
+            "alt": "Luxo Quádruplo Superior — foto 5",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjoltwkmc.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjom6cqhb.webp",
-            "alt": "Luxo Quádruplo Superior — foto 6"
+            "alt": "Luxo Quádruplo Superior — foto 6",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjom6cqhb.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjomdavka.webp",
-            "alt": "Luxo Quádruplo Superior — foto 7"
+            "alt": "Luxo Quádruplo Superior — foto 7",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjomdavka.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjomjp60f.webp",
-            "alt": "Luxo Quádruplo Superior — foto 8"
+            "alt": "Luxo Quádruplo Superior — foto 8",
+            "mini": "img/quartos/luxo-quadruplo-superior-murjomjp60f.m.webp"
           }
         ]
       }
@@ -776,13 +812,15 @@
             "src": "img/proximidades/parque-nacional-1.webp",
             "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 1",
             "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32902708936).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32902708936).jpg",
+            "mini": "img/proximidades/parque-nacional-1.m.webp"
           },
           {
             "src": "img/proximidades/parque-nacional-2.webp",
             "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 2",
             "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32128502603).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32128502603).jpg",
+            "mini": "img/proximidades/parque-nacional-2.m.webp"
           }
         ],
         "rota": [
@@ -889,7 +927,8 @@
             "src": "img/proximidades/estatua-juquinha-1.webp",
             "alt": "Estátua do Juquinha — foto 1",
             "credito": "Pedro Vilela / MTur Destinos / Wikimedia Commons (domínio público)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3APedroVilela_Escultura_do_Juquinha_Santana_do_Riacho_MG_(39056746600).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3APedroVilela_Escultura_do_Juquinha_Santana_do_Riacho_MG_(39056746600).jpg",
+            "mini": "img/proximidades/estatua-juquinha-1.m.webp"
           }
         ],
         "rota": [
@@ -1135,7 +1174,8 @@
             "src": "img/proximidades/canion-bandeirinhas-1.webp",
             "alt": "Cânion das Bandeirinhas — foto 1",
             "credito": "Vinícius de Souza Naves / Wikimedia Commons (CC BY-SA 4.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AO_C%C3%A2nion_das_Bandeirinhas.jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AO_C%C3%A2nion_das_Bandeirinhas.jpg",
+            "mini": "img/proximidades/canion-bandeirinhas-1.m.webp"
           }
         ],
         "acessoCarro": [-19.34895, -43.61896],
@@ -2415,51 +2455,63 @@
           "fotos": [
             {
               "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 1"
+              "alt": "Cachoeira Monjolos + almoço — foto 1",
+              "mini": "img/beneficios/monjolos-muri1n7ey9w.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri1q1xk5a.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 2"
+              "alt": "Cachoeira Monjolos + almoço — foto 2",
+              "mini": "img/beneficios/monjolos-muri1q1xk5a.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri1t2vi4n.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 3"
+              "alt": "Cachoeira Monjolos + almoço — foto 3",
+              "mini": "img/beneficios/monjolos-muri1t2vi4n.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri20wp5du.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 4"
+              "alt": "Cachoeira Monjolos + almoço — foto 4",
+              "mini": "img/beneficios/monjolos-muri20wp5du.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri216v5ow.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 5"
+              "alt": "Cachoeira Monjolos + almoço — foto 5",
+              "mini": "img/beneficios/monjolos-muri216v5ow.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21hl60d.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 6"
+              "alt": "Cachoeira Monjolos + almoço — foto 6",
+              "mini": "img/beneficios/monjolos-muri21hl60d.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21og55j.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 7"
+              "alt": "Cachoeira Monjolos + almoço — foto 7",
+              "mini": "img/beneficios/monjolos-muri21og55j.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21zxiem.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 8"
+              "alt": "Cachoeira Monjolos + almoço — foto 8",
+              "mini": "img/beneficios/monjolos-muri21zxiem.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri22bnm1k.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 9"
+              "alt": "Cachoeira Monjolos + almoço — foto 9",
+              "mini": "img/beneficios/monjolos-muri22bnm1k.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri22mca2k.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 10"
+              "alt": "Cachoeira Monjolos + almoço — foto 10",
+              "mini": "img/beneficios/monjolos-muri22mca2k.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri239vxnm.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 11"
+              "alt": "Cachoeira Monjolos + almoço — foto 11",
+              "mini": "img/beneficios/monjolos-muri239vxnm.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri23gy677.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 12"
+              "alt": "Cachoeira Monjolos + almoço — foto 12",
+              "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
             }
           ]
         }
@@ -2480,19 +2532,23 @@
           "fotos": [
             {
               "src": "img/beneficios/passeios-muri4kbpf7y.webp",
-              "alt": "5% de desconto em passeios — foto 1"
+              "alt": "5% de desconto em passeios — foto 1",
+              "mini": "img/beneficios/passeios-muri4kbpf7y.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4khxy6p.webp",
-              "alt": "5% de desconto em passeios — foto 2"
+              "alt": "5% de desconto em passeios — foto 2",
+              "mini": "img/beneficios/passeios-muri4khxy6p.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4kmy22k.webp",
-              "alt": "5% de desconto em passeios — foto 3"
+              "alt": "5% de desconto em passeios — foto 3",
+              "mini": "img/beneficios/passeios-muri4kmy22k.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4ks74um.webp",
-              "alt": "5% de desconto em passeios — foto 4"
+              "alt": "5% de desconto em passeios — foto 4",
+              "mini": "img/beneficios/passeios-muri4ks74um.m.webp"
             }
           ],
           "botoes": [
@@ -2566,31 +2622,38 @@
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
-              "alt": "Decoração especial — foto 1"
+              "alt": "Decoração especial — foto 1",
+              "mini": "img/beneficios/decoracao-murj5lew20x.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5uiaz0l.webp",
-              "alt": "Decoração especial — foto 2"
+              "alt": "Decoração especial — foto 2",
+              "mini": "img/beneficios/decoracao-murj5uiaz0l.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5xbfksc.webp",
-              "alt": "Decoração especial — foto 3"
+              "alt": "Decoração especial — foto 3",
+              "mini": "img/beneficios/decoracao-murj5xbfksc.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5zw554h.webp",
-              "alt": "Decoração especial — foto 4"
+              "alt": "Decoração especial — foto 4",
+              "mini": "img/beneficios/decoracao-murj5zw554h.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj62mzsrw.webp",
-              "alt": "Decoração especial — foto 5"
+              "alt": "Decoração especial — foto 5",
+              "mini": "img/beneficios/decoracao-murj62mzsrw.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj64qd73d.webp",
-              "alt": "Decoração especial — foto 6"
+              "alt": "Decoração especial — foto 6",
+              "mini": "img/beneficios/decoracao-murj64qd73d.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj66quqnx.webp",
-              "alt": "Decoração especial — foto 7"
+              "alt": "Decoração especial — foto 7",
+              "mini": "img/beneficios/decoracao-murj66quqnx.m.webp"
             }
           ]
         }
