@@ -28,7 +28,7 @@
     "url": "https://hoteisecovip.com.br/",
     "logo": "img/logo-ecovip.png",
     "site": "https://hoteisecovip.com.br/",
-    "instagram": "https://instagram.com/ecovipcipo"
+    "instagram": "https://www.instagram.com/redeecovip/"
   },
   "hero": {
     "imagem": "img/capa-murhfpm334w.webp",
@@ -52,11 +52,6 @@
         "src": "img/sobre/sobre-murhh0vaa1t.webp",
         "alt": "Pousada Mandalla — foto 2",
         "mini": "img/sobre/sobre-murhh0vaa1t.m.webp"
-      },
-      {
-        "src": "img/sobre/sobre-murhh4l9bry.webp",
-        "alt": "Pousada Mandalla — foto 3",
-        "mini": "img/sobre/sobre-murhh4l9bry.m.webp"
       },
       {
         "src": "img/sobre/sobre-murhxmhx3a5.webp",
@@ -158,7 +153,8 @@
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
-          "Vista para o jardim"
+          "Vista para a serra",
+          "Varanda"
         ],
         "disponivel": [
           {
@@ -216,11 +212,6 @@
             "src": "img/quartos/luxo-duplo-superior-murjn1dhcwa.webp",
             "alt": "Luxo Duplo Superior — foto 6",
             "mini": "img/quartos/luxo-duplo-superior-murjn1dhcwa.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-superior-murjn1nozto.webp",
-            "alt": "Luxo Duplo Superior — foto 7",
-            "mini": "img/quartos/luxo-duplo-superior-murjn1nozto.m.webp"
           }
         ]
       },
@@ -232,8 +223,7 @@
         "camas": "Cama de casal + 1 cama de solteiro",
         "caracteristicas": [
           "No térreo",
-          "Banheiro privativo",
-          "Varanda"
+          "Banheiro privativo"
         ],
         "disponivel": [
           {
@@ -267,11 +257,6 @@
             "mini": "img/quartos/luxo-triplo-terreo-murjy1qt7cu.m.webp"
           },
           {
-            "src": "img/quartos/luxo-triplo-terreo-murjy1xgtd7.webp",
-            "alt": "Luxo Triplo Térreo — foto 2",
-            "mini": "img/quartos/luxo-triplo-terreo-murjy1xgtd7.m.webp"
-          },
-          {
             "src": "img/quartos/luxo-triplo-terreo-murjy274oat.webp",
             "alt": "Luxo Triplo Térreo — foto 3",
             "mini": "img/quartos/luxo-triplo-terreo-murjy274oat.m.webp"
@@ -287,24 +272,9 @@
             "mini": "img/quartos/luxo-triplo-terreo-murjy2rngle.m.webp"
           },
           {
-            "src": "img/quartos/luxo-triplo-terreo-murjy337o8d.webp",
-            "alt": "Luxo Triplo Térreo — foto 6",
-            "mini": "img/quartos/luxo-triplo-terreo-murjy337o8d.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-terreo-murjy3d3w09.webp",
-            "alt": "Luxo Triplo Térreo — foto 7",
-            "mini": "img/quartos/luxo-triplo-terreo-murjy3d3w09.m.webp"
-          },
-          {
             "src": "img/quartos/luxo-triplo-terreo-murjy3lr1k1.webp",
             "alt": "Luxo Triplo Térreo — foto 8",
             "mini": "img/quartos/luxo-triplo-terreo-murjy3lr1k1.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-terreo-murjy3uzaf0.webp",
-            "alt": "Luxo Triplo Térreo — foto 9",
-            "mini": "img/quartos/luxo-triplo-terreo-murjy3uzaf0.m.webp"
           }
         ]
       },
@@ -317,7 +287,10 @@
         "caracteristicas": [
           "No andar superior",
           "Banheiro privativo",
-          "Área de estar"
+          "Área de estar",
+          "2 espaços",
+          "Vista para a serra",
+          "Varanda"
         ],
         "disponivel": [
           {
@@ -346,11 +319,6 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-quadruplo-superior-murjom0mm0q.webp",
-            "alt": "Luxo Quádruplo Superior — foto 1",
-            "mini": "img/quartos/luxo-quadruplo-superior-murjom0mm0q.m.webp"
-          },
-          {
             "src": "img/quartos/luxo-quadruplo-superior-murjol6n2lg.webp",
             "alt": "Luxo Quádruplo Superior — foto 2",
             "mini": "img/quartos/luxo-quadruplo-superior-murjol6n2lg.m.webp"
@@ -374,11 +342,6 @@
             "src": "img/quartos/luxo-quadruplo-superior-murjom6cqhb.webp",
             "alt": "Luxo Quádruplo Superior — foto 6",
             "mini": "img/quartos/luxo-quadruplo-superior-murjom6cqhb.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-quadruplo-superior-murjomdavka.webp",
-            "alt": "Luxo Quádruplo Superior — foto 7",
-            "mini": "img/quartos/luxo-quadruplo-superior-murjomdavka.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-superior-murjomjp60f.webp",
@@ -2065,7 +2028,7 @@
               ]
             }
           ],
-          "nota": "Solicite mais informações na recepção da pousada. Relaxe, aproveite e viva o melhor da Rede EcoVip!",
+          "nota": "Relaxe, aproveite e viva o melhor da Rede EcoVip!",
           "fotos": [
             {
               "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
@@ -2093,11 +2056,6 @@
               "mini": "img/beneficios/monjolos-muri216v5ow.m.webp"
             },
             {
-              "src": "img/beneficios/monjolos-muri21hl60d.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 6",
-              "mini": "img/beneficios/monjolos-muri21hl60d.m.webp"
-            },
-            {
               "src": "img/beneficios/monjolos-muri21og55j.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 7",
               "mini": "img/beneficios/monjolos-muri21og55j.m.webp"
@@ -2121,15 +2079,10 @@
               "src": "img/beneficios/monjolos-muri239vxnm.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 11",
               "mini": "img/beneficios/monjolos-muri239vxnm.m.webp"
-            },
-            {
-              "src": "img/beneficios/monjolos-muri23gy677.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 12",
-              "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
             }
           ]
         },
-        "preco": "Valor sob consulta na recepção"
+        "preco": "Valor sob consulta"
       },
       {
         "id": "passeios",
@@ -2179,7 +2132,7 @@
         "id": "massagem",
         "icone": "massagem",
         "titulo": "Massagem relaxante",
-        "texto": "Realizada por profissionais parceiros. Confira a disponibilidade na recepção.",
+        "texto": "Realizada por profissionais parceiros.",
         "botao": "Ver detalhes",
         "detalhes": {
           "destaque": "Sessão de 50 minutos",
@@ -2198,12 +2151,11 @@
               "titulo": "Agendamento",
               "itens": [
                 "Sinal de R$ 60,00 via Pix",
-                "Valor restante pago diretamente na recepção"
+                "Valor restante pago diretamente na pousada"
               ]
             }
           ],
-          "fotos": [],
-          "nota": "Agende na recepção da pousada."
+          "fotos": []
         },
         "preco": "A partir de R$ 190,00 por pessoa"
       },
@@ -2235,7 +2187,7 @@
               ]
             }
           ],
-          "nota": "Surpreenda quem você ama com momentos inesquecíveis! Peça a sua na recepção.",
+          "nota": "Surpreenda quem você ama com momentos inesquecíveis!",
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
@@ -2278,7 +2230,7 @@
       }
     ],
     "fecho": "E ainda mais vantagens para tornar sua estadia inesquecível!",
-    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade pelo WhatsApp."
   },
   "galeria": {
     "eyebrow": "Galeria",
